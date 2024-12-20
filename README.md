@@ -16,7 +16,7 @@ AtoZ🎊🍃 - Weekly Music Playlist <img src="https://raw.githubusercontent.com
 Welcome to **AtoZ🎊🍃** 🎧This is a **Weekly Music Playlist** web app, built with love using **Python**, **YAML**, **XML**, and **Docker**! It's hosted on **GitHub Pages**, utilizes **GitHub Workspaces**, and has been integrated with **GitHub Actions** for seamless development and deployment.
 
 <div align="center">
-</div>(https://photos.app.goo.gl/9R67nQLemiTJ8qgx7)
+<img src="https://photos.app.goo.gl/9R67nQLemiTJ8qgx7)
 
 
 ---
